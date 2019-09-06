@@ -11,7 +11,7 @@
 |--------------|------------------------------|
 |14:10 - 14:45 |Creazione dell'account github e download dei vari software richiesti dal docente (github desktop)          |
 |15:00 - 15:40 |Messa in funzione di github desktop e creazione dei vari file richiesti dal docente (Documentazione.md, README.md e NATLUE_Diario_2019-09-06.md)     |
-|15:40 - 16:30 |Analisi della specifica e della documentazione fornita dal docente.                           |
+|15:40 - 16:30 |Analisi della specifica e della documentazione fornita dal docente. Inoltre aggiornamento della versione di java (12.0.2) e aggiornamento di NetBeans (11.1)                           |
 
 ##  Problemi riscontrati e soluzioni adottate
 Nessuno.
