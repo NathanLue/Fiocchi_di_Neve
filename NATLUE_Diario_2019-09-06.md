@@ -1,8 +1,8 @@
 
 
-# [FIOCCHI_DI_NEVE] | Diario di lavoro
-##### [Nathan, Luè]
-### [Trevano], [2019.09.06]
+# FIOCCHI_DI_NEVE | Diario di lavoro
+##### Nathan, Luè
+### Trevano, 2019.09.06
 
 ## Lavori svolti
 
