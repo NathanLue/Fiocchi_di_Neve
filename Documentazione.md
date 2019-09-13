@@ -51,15 +51,13 @@
 
 ### Informazioni sul progetto
 
-  In questo capitolo raccogliere le informazioni relative al progetto, ad esempio:
+-   Allievo: Nathan Luè
 
-  -   Allievo/i e docente/i coinvolti nel progetto e rispettivi ruoli,
+-   Docenti coinvolti: Luca Muggiasca, Geo Petrini
 
-  -   scuola ,sezione, materia/e,
+-   Modulo 306, SAM Trevano I3AC
 
-  -   date di inizio e termine di consegna,
-
-  -   …
+-   Durata progetto: 3 settembre 2019 - 20 dicembre 2019
 
 ### Abstract
 
@@ -176,14 +174,27 @@
 
   |**ID**	|**Nome**			|**Priorità**|**Vers**|**Note**  |
   |----|------------|--------|----|------|
-  |Req-0|L'applicativo dovrà essere scritto i Java o JavaScript. Se il software viene scritto in Java è richiesta la creazione di un sito adibito alla descrizione e al download dell'applicativo, con la descrizione di tutti i requisiti per il funzionamento.|1|1.0|-|
-  |Req-1|I punti di "taglio" sono da inserire con il mouse con semplici click.|1|1.0|-|
-  |Req-2|L'inserimento del percorso per creare i poligoni necessari a comporre il fiocco di neve deve avere la possibilità di aggiunta dei punti ed il reset totale.|1|1.0|Se si possono rimuovere e/o spostare i punti si ricevono dei punti bonus.|
-  |Req-3|Il programma deve essere completo di un tasto "Genera" che appunto va a creare il fiocco di neve.|1|1.0|Se la generazione del fiocco di neve avviene in tempo reale si ottengono punti bonus.|
-  |Req-4|L'applicativo deve permettere di salvare il fiocco di neve generato come immagine raster (con dimensioni a scelta dell'utente) e vettoriale. Le immagini devono essere in formato PNG e SVG.|1|1.0|-|
-  |Req-5|L'applicativo deve permettere di salvare i punti di taglio per poter permettere modifiche o rigenerazioni future.|1|1.0|-|
-  
-  
+  |Req-1|L'applicativo deve essere scritto in Java.|1|1.0|-|
+  |Req-2|Deve esistere un sito con la descrizione del software ed ove si può scaricare l'applicativo con una piccola guida legata al funzionamento dello stesso. Inoltre deve esserci una lista dei requisiti di sistema per poter avviare l'applicativo|1|1.0|-|
+  |Req-3|Per la colorazione e l'abbellimento del sito evitare colori fastidiosi e rendere la pagina il più user-friendly possibile.|1|1.0|-|
+  |Req-4|I tagli del triangolo devono essere fatti con il mouse tramite dei punti che si creano cliccando con il cursore.|1|1.0|-|
+  |Req-5|Cliccando con il mouse si possono creare uno o più poligoni.|1|1.0|-|
+  |Req-6|Deve esserci un'interfaccia grafica.|1|1.0|-|
+  |Req-7|L'interfaccia deve poter essere ridimensionabile. La grandezza minima è 1024X768.|1|1.0|-|
+  |Req-8|L'area di lavoro deve essere un triangolo.|1|1.0|-|
+  |Req-9|Deve esistere il tasto genera fiocco, che genera appunto il fiocco.|1|1.0|-|
+  |Req-10|La generazione del fiocco di neve deve avvenire in tempo reale.|2|1.0|Opzionale|
+  |Req-11|I punti creati con il mouse devono poter essere spostati e rimossi.|2|1.0|Opzionale|
+  |Req-12|Il lavoro (fiocco di neve) deve poter essere salvato.|1|1.0|-|
+  |Req-13|Il salvataggio deve essere fatto in formato PNG o SVG (raster e vettoriale). La scelta viene proposta all'utente.|1|1.0|-|
+  |Req-14|Il salvataggio deve avere dimensioni definite dall'utente tra 3 scelte: dimensione corrente, 500X500 o 1000X1000.|1|1.0|-|
+  |Req-15|Deve essere possibile salvare i punti di taglio.|1|1.0|-|
+  |Req-16|Il salvataggio del lavoro e dei punti deve venire effettuato su un file esterno. L'utente può scegliere la cartella di destinazione. Il file nel quale vengono salvate le informazioni è un file JSON.|1|1.0|-|
+  |Req-17|All'avvio dell'applicativo deve essere mostrata una home che spiega come utilizzare il software.|1|1.0|-|
+  |Req-18|I punti salvati possono venire caricati tramite un esplora risorse.|1|1.0|-|
+  |Req-19|Il tasto salva fa visualizzare prima un anteprima del risultato e chiede conferma prima di salvare.|1|1.0|-|
+  |Req-20|Il triangolo che deve venire tagliato deve ridimensionarsi in base alla dimensione della finestra (50%).|1|1.0|-|
+
 
 
 
