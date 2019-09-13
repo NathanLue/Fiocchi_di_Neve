@@ -176,9 +176,12 @@
 
   |**ID**	|**Nome**			|**Priorità**|**Vers**|**Note**  |
   |----|------------|--------|----|------|
-  |Req-12|Dovrà esserci una maschera di login|1|1.0|...|
-  |Req-13|Si dovranno poter immettere nuovi allievi|1|1.0|...|
-  |Req-14|Dovrà essere possibile la ricerca di allievi|1|1.0|...|
+  |Req-0|L'applicativo dovrà essere scritto i Java o JavaScript. Se il software viene scritto in Java è richiesta la creazione di un sito adibito alla descrizione e al download dell'applicativo, con la descrizione di tutti i requisiti per il funzionamento.|1|1.0|-|
+  |Req-1|I punti di "taglio" sono da inserire con il mouse con semplici click.|1|1.0|-|
+  |Req-2|L'inserimento del percorso per creare i poligoni necessari a comporre il fiocco di neve deve avere la possibilità di aggiunta dei punti ed il reset totale.|1|1.0|Se si possono rimuovere e/o spostare i punti si ricevono dei punti bonus.|
+  |Req-3|Il programma deve essere completo di un tasto "Genera" che appunto va a creare il fiocco di neve.|1|1.0|Se la generazione del fiocco di neve avviene in tempo reale si ottengono punti bonus.|
+  |Req-4|L'applicativo deve permettere di salvare il fiocco di neve generato come immagine raster (con dimensioni a scelta dell'utente) e vettoriale. Le immagini devono essere in formato PNG e SVG.|1|1.0|-|
+  |Req-5|L'applicativo deve permettere di salvare i punti di taglio per poter permettere modifiche o rigenerazioni future.|1|1.0|-|
   
   
 
