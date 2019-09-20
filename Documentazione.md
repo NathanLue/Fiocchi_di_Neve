@@ -136,10 +136,10 @@
 
   -   …
 
-  Questo prodotto sarà utilizzato per poter generare infiniti fiocchi di neve, esso può essere divertente per i più piccoli ma anche molto interessate per i più grandi.
+  Questo prodotto sarà utilizzato per poter generare infiniti fiocchi di neve, esso può essere divertente per i più piccoli ma anche molto interessate per i più grandi. Esso può essere visto come un giochino, ma anche come oggetto di studio sulle infinite varietà di fiocchi di neve. Inoltre può essere usato come fonte di ispirazione nel campo artistico.
 
   Attualmente esistono software complicati che fanno quasi la stessa cosa di questo. Ma questo è molto semplice, intuitivo e ben spiegato. Ovviamente è un applicativo gratuito e multipiattaforma, scaricabile da tutti essendo scritto in Java.
-  
+
   GLi utenti che possono utilizzare questo programma vanno da un età da asilo nido, fino ad un'età da casa per anziani. All'utente non è richiesta alcuna conoscenza specifica per utilizzare il software. Come detto in precedenza chiunque può divertirsi utilizzando questo software.
 
 ### Analisi e specifica dei requisiti
