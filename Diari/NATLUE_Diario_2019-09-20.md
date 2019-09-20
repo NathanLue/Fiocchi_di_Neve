@@ -2,7 +2,7 @@
 
 # FIOCCHI_DI_NEVE | Diario di lavoro
 ##### Nathan, Luè
-### Trevano, 2019.09.13
+### Trevano, 2019.09.20
 
 ## Lavori svolti
 
