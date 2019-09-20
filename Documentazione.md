@@ -104,6 +104,9 @@
   descrivere il mandato, ma non vanno ricopiate le informazioni del
   quaderno dei compiti (che va invece allegato).
 
+  Lo scopo di questo progetto didattico è quello di creare un applicativo che permetta, tramite dei "tagli" creati con il mouse, di creare un fiocco di neve. I "tagli" vengono effettuati all'interno di un triangolo. Inoltre vi è la possibilità di salvare il proprio lavoro per poterlo rivisualizzare in seguito. Vi sarà infine un sito che permette il download e l'informazione dell'applicativo.
+  Lo scopo finale di questo progetto è quello di farci imparare a gestire un progetto completo.
+
 
 ## Analisi
 
@@ -132,6 +135,12 @@
       efficacemente nel dominio?
 
   -   …
+
+  Questo prodotto sarà utilizzato per poter generare infiniti fiocchi di neve, esso può essere divertente per i più piccoli ma anche molto interessate per i più grandi.
+
+  Attualmente esistono software complicati che fanno quasi la stessa cosa di questo. Ma questo è molto semplice, intuitivo e ben spiegato. Ovviamente è un applicativo gratuito e multipiattaforma, scaricabile da tutti essendo scritto in Java.
+  
+  GLi utenti che possono utilizzare questo programma vanno da un età da asilo nido, fino ad un'età da casa per anziani. All'utente non è richiesta alcuna conoscenza specifica per utilizzare il software. Come detto in precedenza chiunque può divertirsi utilizzando questo software.
 
 ### Analisi e specifica dei requisiti
 
