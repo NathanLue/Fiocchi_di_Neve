@@ -145,8 +145,6 @@ E un'interfaccia:
 #### *Diagramma delle classi (UML)*
 <img src="./Uml/FioccoDiNeveUml.png">
 
-
-#### *Diagramma delle classi ()
 ### Design delle interfacce
 
 La pagina principale dovrà avere circa il seguente layout:
