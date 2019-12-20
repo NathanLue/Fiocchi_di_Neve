@@ -1,0 +1,2 @@
+Non capisco perchè, ma utilizzando il programma su netbeans funziona benissimo, mentre quando avvio il jar questo non funziona.
+La prego di utilizzare il fiocco di neve da netbeans, altrimenti le crasherà il programma subito dopo averlo avviato.
