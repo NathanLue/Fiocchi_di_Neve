@@ -16,4 +16,4 @@ Lo scopo finale di questo progetto è quello di farci imparare a gestire un prog
 ## Link utili
 * [Documentazione](./Documentazione/Documentazione.md)
 * [FioccoDiNeve Jar](./FioccoDiNeve/dist/FioccoDiNeve.jar)
-* [Diari] (./Diari)
+* [Diari] (./Diari/)
